@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "MemoBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "memo919.aternos.me",
-    "port": 17913,
-    "version": "1.20.1",
+    "ip": "likememo.falix.pro",
+    "port": 23507,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        ".",
+        "L",
+        "LikeMemo"
       ]
     },
     "chat-log": true,
